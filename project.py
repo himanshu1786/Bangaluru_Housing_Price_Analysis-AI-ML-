@@ -6,7 +6,7 @@ import seaborn as sns
 from itertools import product
 matplotlib.rcParams["figure.figsize"] = (20,10)
 
-df1 = pd.read_csv('H:/Project/Bengaluru_House_Data.csv')
+df1 = pd.read_csv('Bengaluru_House_Data.csv')
 
 print(df1)
 
